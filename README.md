@@ -1,4 +1,4 @@
-# 📘 O Algoritmo do Lucro  
+# 💵 O Algoritmo do Lucro  
 ### Ciência de Dados aplicada à performance financeira  
 
 <p align="center">
