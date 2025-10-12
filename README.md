@@ -17,10 +17,6 @@ O ebook **“O Algoritmo do Lucro”** apresenta, de forma prática e acessível
 
 O conteúdo foi construído com base em exemplos reais, linguagem clara e foco em mostrar como dados podem se transformar em estratégia e desempenho financeiro.  
 
-> Este eBook foi elaborado com foco na aplicação da ciência de dados ao mercado financeiro, e sua diagramação foi feita manualmente.  
->  
-> Todo o conteúdo, incluindo conceitos e exemplos práticos, está disponível de forma detalhada neste repositório.  
->  
 > Vale destacar que este material tem caráter **exclusivamente educacional e didático**.  
 > Não passou por validação formal de especialistas, podendo conter pequenas imprecisões.  
 
