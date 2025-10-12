@@ -83,9 +83,9 @@ Projeto desenvolvido por **Lucas Pimenta**, como parte do bootcamp **Universia -
 
 ## 📬 Contato  
 
-📧 **E-mail:** [seuemail@exemplo.com](lucaspimenta1805@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/seulinkedin](https://www.linkedin.com/in/lucaspimentabarretto/)  
-🐙 **GitHub:** [github.com/seuperfil](https://github.com/LucasPBar)
+📧 **E-mail:** [lucaspimenta1805@gmail.com](lucaspimenta1805@gmail.com)  
+💼 **LinkedIn:** [Lucas Barretto](https://www.linkedin.com/in/lucaspimentabarretto/)  
+🐙 **GitHub:** [LucasPBar](https://github.com/LucasPBar)
 
 ---
 
